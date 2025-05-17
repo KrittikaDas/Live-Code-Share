@@ -1,4 +1,14 @@
+## 👨‍💻 About the Author
+
+**Developed and Maintained by Akshit dhiman**
+
+- 💼 **Portfolio**: https://akshitd.vercel.app
+- 💻 **LinkedIn**: [https://www.linkedin.com/in/akshit-dhiman](https://www.linkedin.com/in/akshithdh/)
+- 📧 **Email**: [akshithdh@gmail.com](mailto:akshithdh@gmail.com)
+---
+
 # LiveCodeShare
+![LiveCodeShare Screenshot](./assets/page1.png)
 
 ## 🧪 Overview
 
@@ -152,7 +162,3 @@ Visit: [http://localhost:3000](http://localhost:3000)
 Feel free to reach out for collaborations or questions!
 
 **Akshit Dhiman**
-
-- **LinkedIn**: [https://www.linkedin.com/in/akshit-dhiman](https://www.linkedin.com/in/akshit-dhiman)
-- **GitHub**: [https://github.com/akshitdhiman](https://github.com/akshitdhiman)
-- **Email**: [akshithdh@gmail.com](mailto:akshithdh@gmail.com)
