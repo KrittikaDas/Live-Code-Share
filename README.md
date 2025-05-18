@@ -1,3 +1,6 @@
+> This project was originally developed in collaboration with Akshit Dhiman. 
+> My contributions focused on data handling, cloud deployment, and automated testing.
+
 ## 👨‍💻 About the Author
 
 **Developed and Maintained by Akshit dhiman**
